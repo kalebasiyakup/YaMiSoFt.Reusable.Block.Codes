@@ -1,4 +1,4 @@
-# My.Reusable.Block.Codes
+# YaMiSoFt.Reusable.Block.Codes
 
 Bu repo, farklı projelerde tekrar tekrar kullanılabilecek **modüler kod bloklarını** içerir.  
 Amaç, geliştiricilerin zaman kazanmasını sağlamak ve **best practice** yaklaşımıyla yeniden kullanılabilir, okunabilir ve sürdürülebilir çözümler sunmaktır.
